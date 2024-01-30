@@ -1,4 +1,4 @@
-# Flutter Project Journey with Code Blocks
+# Flutter Project Journey 
 
 ## Introduction
 
